@@ -1,3 +1,25 @@
+On branch 'master' - the styled version
+
+
+On branch 'stripped' - WHAT WE'VE STYLED during the training.
+
+
+
+Switch between branches:
+
+git checkout stripped       < --- >       git checkout master
+
+
+
+
+
+
+
+
+-------------------------------------------------
+
+Initial readme - not interesting for the SCSS exercise
+
 # SimpleApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.

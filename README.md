@@ -1,3 +1,15 @@
+On branch 'master' - the styled version
+
+
+On branch 'stripped' - the version we've styled within the training.
+
+
+Switch between branches:
+
+git checkout stripped       < --- >       git checkout master
+
+
+
 # SimpleApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.

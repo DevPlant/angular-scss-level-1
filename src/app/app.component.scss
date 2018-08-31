@@ -1,0 +1,27 @@
+@import '../assets/styles/variables.scss';
+@import '../assets/styles/buttons.scss';
+
+.parent-div {
+  background-color: rgb(215, 221, 215);
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+  padding: 10px 10px 0px;
+  height: 100vh;
+  box-sizing: content-box;
+
+  #title {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .text-content-container {
+    margin-top:20px;
+    margin-bottom:20px;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+}

@@ -1,0 +1,33 @@
+
+
+  .main-button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    color: $aci-color-btn-border;
+    padding: 10px 20px;
+    font-size: 2rem;
+    margin-top: 20px;
+
+    outline: none;
+    height: 60px;
+
+    transition: all 0.5s;
+
+    &:hover {
+      opacity: 0.6;
+    }
+    &:active {
+      border: 2px solid grey;
+    }
+  }
+
+
+  .btn-primary {
+    background-color: $aci-col-primary;
+  }
+
+  .btn-secondary {
+    background-color: $aci-col-secondary;
+  }
